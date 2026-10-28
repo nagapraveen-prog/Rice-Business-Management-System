@@ -1,0 +1,6 @@
+# C++ build output
+*.exe
+*.o
+*.obj
+*.out
+data/*.rice-tmp-*
